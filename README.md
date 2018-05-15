@@ -1,0 +1,2 @@
+# FP_28
+Pembuatan website Yuru Camp bertujuan untuk mempermudah para pengunjung yang ingin mengetahui tempat-tempat terbaik untuk berkemah (camping) sendiri maupun bersama keluarga, dengan memberikan pengalaman dan gambar lokasi tersebut tanpa perlu mengunjunginya terlebih dahulu. Di karenakan  saat ini banyak sekali yang menggunakan internet dan tidak sedikit juga yang suka berkemah, maka Yuru Camp memberikan pengalaman terbaik untuk orang-orang yang ingin berkemah.
